@@ -17,6 +17,8 @@ You'll also need ng-slider-slide-active for the active
 slide; this should only have opacity:1 and
 display:block. z-index can be used for troubleshooting,
 too.
+Finally, I use an overlay div, too, with the class
+ng-slider-slide-overlay.
 -----------------------------------------------------*/
 
 
